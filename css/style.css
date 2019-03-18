@@ -2,6 +2,7 @@ img {
     height: 10em;
     width: 10em;
 }
+<!-- where's my issue?
 a {text-decoration: none;}
 a:hover{
   text-decoration: underline;
@@ -28,4 +29,4 @@ div {
       background=color: green;
   }
 }
-
+  -->
